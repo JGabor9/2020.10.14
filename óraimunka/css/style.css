@@ -1,0 +1,14 @@
+.my-border {
+    border: 1px solid black;
+}
+
+.my-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.carousel-item{
+    height: 700px;
+} 
+.carousel-item img{
+    height: 700px;
+}
